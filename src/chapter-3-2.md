@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Financial Planning
-=====================================================================================================
 
 Artificial Intelligence (AI) has become an increasingly important tool in financial planning. It allows financial institutions to collect and analyze large volumes of data, generate insights, and provide personalized advice to their clients. However, while AI offers numerous advantages, it also has limitations that must be considered. In this chapter, we will explore the advantages and limitations of AI in financial planning.
 

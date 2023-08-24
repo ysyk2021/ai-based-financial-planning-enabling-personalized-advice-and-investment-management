@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Financial Planning
-============================================================================================================================
 
 Artificial Intelligence (AI) has become an increasingly important tool in financial planning. It involves the use of algorithms and techniques that enable machines to learn from data, make decisions, and perform tasks that typically require human intelligence. In this chapter, we will explore the different types of AI and their applications in financial planning.
 

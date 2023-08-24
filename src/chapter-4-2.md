@@ -1,5 +1,3 @@
-Transactional and Behavioral Data
-======================================================================================
 
 AI-based financial planning is reliant on high-quality data to generate accurate recommendations and insights. In this chapter, we will discuss the importance of data collection and analysis for financial planning, with a focus on transactional and behavioral data.
 

@@ -1,5 +1,3 @@
-Robo-Advisors and Investment Management
-==============================================================================================
 
 Robo-advisors are one of the most prominent examples of AI-based financial planning techniques. They use artificial intelligence algorithms to automate investment management, providing clients with personalized advice at a lower cost than traditional financial planners. This chapter explores the role of robo-advisors in investment management and their impact on the finance industry.
 

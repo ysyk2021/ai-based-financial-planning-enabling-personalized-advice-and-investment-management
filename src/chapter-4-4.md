@@ -1,5 +1,3 @@
-Social Media and User Behavior Tracking
-============================================================================================
 
 AI-based financial planning can incorporate social media and user behavior tracking to gain insights into individual customer behavior and preferences. In this chapter, we will discuss the role of social media and user behavior tracking in AI-based financial planning.
 

@@ -1,5 +1,3 @@
-Data Collection and Analysis for Financial Planning
-===================================================
 
 Data collection and analysis play a key role in AI-based financial planning. By analyzing various types of data, such as transactional, behavioral, market and economic, social media, credit scores, and risk assessment, financial institutions can generate personalized recommendations and insights tailored to each customer's financial situation. In this chapter, we will discuss the different types of data used in AI-based financial planning.
 

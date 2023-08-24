@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Financial Planning
-==================================================================================================
 
 Artificial Intelligence (AI) has become an increasingly important tool in financial planning. It allows financial institutions to collect and analyze large volumes of data, generate insights, and provide personalized advice to their clients. In this chapter, we will explore several case studies that demonstrate the use of AI in financial planning.
 

@@ -1,5 +1,3 @@
-Overview of AI-Based Financial Planning Techniques and Strategies
-========================================================================================================================
 
 AI-based financial planning leverages artificial intelligence algorithms and techniques to provide more accurate and personalized advice on investment management, risk assessment, and financial planning. This chapter provides an overview of the AI-based financial planning techniques and strategies used by financial institutions to deliver better outcomes for their clients.
 

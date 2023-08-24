@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Financial Planning
-====================================================================================================================
 
 AI-based financial planning is transforming the financial industry, allowing for more personalized and accurate financial advice. However, AI-based financial planning requires high-quality data to generate accurate recommendations and insights. In this chapter, we will provide an overview of data collection and analysis for financial planning.
 

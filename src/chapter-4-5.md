@@ -1,5 +1,3 @@
-Credit Scores and Risk Assessment Data
-===========================================================================================
 
 Data collection and analysis are essential components of AI-based financial planning. In this chapter, we will focus on two types of data that are particularly important for financial planning: credit scores and risk assessment data.
 

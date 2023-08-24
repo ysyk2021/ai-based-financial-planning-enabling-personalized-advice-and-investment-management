@@ -1,5 +1,3 @@
-Opportunities and Challenges in Scaling Up AI-Based Financial Planning
-========================================================================================================
 
 Scaling up AI-based financial planning presents both opportunities and challenges for financial institutions. In this chapter, we will explore these opportunities and challenges and discuss strategies for successfully scaling up AI-based financial planning.
 

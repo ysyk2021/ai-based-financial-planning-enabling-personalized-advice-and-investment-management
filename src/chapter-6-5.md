@@ -1,5 +1,3 @@
-Business Models and Cost-Effectiveness
-=====================================================================================
 
 Implementing AI-based financial planning requires careful consideration of business models and cost-effectiveness. In this chapter, we will explore the different business models for AI-based financial planning and how to ensure that they are cost-effective.
 

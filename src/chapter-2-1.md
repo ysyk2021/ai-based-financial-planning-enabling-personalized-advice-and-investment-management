@@ -1,5 +1,3 @@
-Overview of Financial Planning
-================================================================
 
 Financial planning is the process of setting financial goals, assessing the current financial situation, and creating a plan to achieve those goals. It involves analyzing income, expenses, assets, and liabilities to determine the most effective way to manage money and achieve long-term financial success.
 

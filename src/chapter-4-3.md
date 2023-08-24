@@ -1,5 +1,3 @@
-Market and Economic Data
-=============================================================================
 
 In addition to transactional and behavioral data, AI-based financial planning can incorporate market and economic data to generate more accurate and comprehensive financial advice. In this chapter, we will examine the importance of market and economic data in AI-based financial planning.
 

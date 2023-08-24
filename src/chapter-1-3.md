@@ -1,5 +1,3 @@
-Objectives and Structure of the Book
-==================================================
 
 This book focuses on the application of artificial intelligence (AI) in financial planning, specifically how AI can enable personalized advice and investment management. The objective of this book is to provide an in-depth understanding of how AI-based financial planning works and how it can benefit financial planners and their clients.
 

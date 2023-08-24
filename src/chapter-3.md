@@ -1,5 +1,3 @@
-Artificial Intelligence in Financial Planning
-=============================================
 
 Artificial intelligence (AI) is transforming the world of financial planning by providing personalized advice and investment management. This chapter will explore the different types of AI used in financial planning, their advantages and limitations, and case studies on their use.
 

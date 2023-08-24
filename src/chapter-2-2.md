@@ -1,5 +1,3 @@
-Traditional Approaches to Financial Planning
-==============================================================================
 
 Traditionally, financial planning has been carried out by certified financial planners who use manual analysis methods to develop a plan for their clients. These traditional approaches typically involve using spreadsheets and math calculations to create projections for income, expenses, and investment returns. While these methods have been effective in the past, they have several limitations that need to be addressed.
 

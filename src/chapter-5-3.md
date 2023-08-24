@@ -1,5 +1,3 @@
-Personalized Portfolio Optimization
-==========================================================================================
 
 One of the key benefits of AI-based financial planning is its ability to provide personalized portfolio optimization. In this chapter, we will explore the techniques and strategies used in AI-based financial planning for personalized portfolio optimization.
 

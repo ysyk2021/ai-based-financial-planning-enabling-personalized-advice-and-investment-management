@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Finance
-=================================================================================
 
 In recent years, artificial intelligence (AI) has become a major disruptive force in the finance industry. AI-based technologies are transforming financial planning, investment management, risk assessment, fraud detection, customer service, and more. As a result, financial institutions are adopting AI technologies at an unprecedented pace, seeking to gain a competitive edge in a rapidly changing market.
 

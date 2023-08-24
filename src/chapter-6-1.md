@@ -1,5 +1,3 @@
-Overview of Implementing AI-Based Financial Planning
-===================================================================================================
 
 Implementing AI-based financial planning involves several key steps, each of which must be carefully considered to ensure success. In this chapter, we will provide an overview of the steps involved in implementing AI-based financial planning.
 

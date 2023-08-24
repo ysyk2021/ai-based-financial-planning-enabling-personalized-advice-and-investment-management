@@ -1,5 +1,3 @@
-Future Directions and Challenges
-================================
 
 AI-based financial planning is rapidly evolving, with new technologies and emerging trends shaping the future of finance. In this chapter, we will explore some of the emerging trends and technologies in AI-based financial planning, opportunities and challenges in scaling up AI-based financial planning, and implications for the future of finance.
 

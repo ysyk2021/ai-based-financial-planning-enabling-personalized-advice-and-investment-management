@@ -1,5 +1,3 @@
-AI-Based Financial Planning Techniques and Strategies
-=====================================================
 
 AI-based financial planning is transforming the world of investment management by providing personalized advice, improving risk assessment, and preventing fraud. In this chapter, we will explore the different techniques and strategies used in AI-based financial planning.
 

@@ -1,5 +1,3 @@
-Credit Scoring and Risk Assessment
-=========================================================================================
 
 AI-based financial planning can improve credit scoring and risk assessment by analyzing large amounts of data and providing more accurate predictions. In this chapter, we will explore the techniques and strategies used in AI-based financial planning for credit scoring and risk assessment.
 

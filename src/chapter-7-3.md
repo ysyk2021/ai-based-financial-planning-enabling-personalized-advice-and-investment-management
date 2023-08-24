@@ -1,5 +1,3 @@
-Implications for the Future of Finance
-========================================================================
 
 As AI-based financial planning continues to evolve, there are many future directions and challenges that will shape the future of finance. This chapter explores some of these directions and challenges, and discusses their implications for the future of finance.
 

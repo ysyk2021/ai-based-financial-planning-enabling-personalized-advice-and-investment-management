@@ -1,5 +1,3 @@
-Fraud Detection and Prevention
-=====================================================================================
 
 One of the key benefits of AI-based financial planning is its ability to detect and prevent fraud. In this chapter, we will explore the techniques and strategies used in AI-based financial planning for fraud detection and prevention.
 

@@ -1,5 +1,3 @@
-Emerging Trends and Technologies in AI-Based Financial Planning
-=================================================================================================
 
 AI-based financial planning is constantly evolving, with new trends and technologies emerging that have the potential to transform the industry. In this chapter, we will explore some of these emerging trends and technologies, as well as the challenges they present for financial institutions.
 
