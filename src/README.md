@@ -6,3 +6,7 @@ As AI-based financial planning continues to evolve, financial institutions must 
 Overall, this book aims to provide a comprehensive understanding of AI-based financial planning and its potential to transform investment management. By leveraging the power of AI technology, financial institutions can provide better outcomes for their customers while also reducing costs and increasing efficiency.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
